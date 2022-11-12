@@ -1,0 +1,620 @@
+@import url("https://fonts.googleapis.com/css?family=Mina:400|Roboto:600");
+
+
+  .mask-group {
+position: absolute;
+width: 1123.4px;
+height: 1070.26px;
+left: 490.66px;
+top: -443px;
+
+/* background: #F5E233; */
+mix-blend-mode: normal;
+transform: rotate(0.25deg);
+
+    /* height: 500px;
+    right: 0px;
+    position: absolute;
+    top: 30px;
+    width: 500px;
+    color:#F5E233; */
+}
+@media screen and (max-width: 450px) {
+  .mask-group{
+    position: absolute;
+width: 340.48px;
+height: 341.4px;
+left: 144px;
+top: -104px;        mix-blend-mode: normal;
+    transform: rotate(0.25deg);
+  }
+}
+
+.siddhi-dhamale {
+  color: var(--black);
+  font-family: var(--font-family-mina);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  position: absolute;
+width: 298px;
+height: 57px;
+left: 94px;
+top: 372px;
+font-size: 36px;
+
+  }
+
+  @media screen and (max-width: 450px) {
+    .siddhi-dhamale{
+      color: var(--black);
+    font-family: var(--font-family-mina);
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    letter-spacing: 0;
+    position: absolute;
+    width: 83px;
+    height: 16px;
+    left: 52px;
+    top: 204px;
+    font-size: 10px;
+}
+
+}
+
+
+ 
+    .dottedcircle {
+      position: absolute;
+    width: 612.25px;
+    height: 433.98px;
+    left: 577.21px;
+    top: 186px;
+    
+    transform: rotate(21.83deg);
+/* background: #FBFFFF; */
+/* border: 1px dashed #7AA2A2; */
+/* box-sizing: border-box; */
+/* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+/* transform: rotate(4.83deg); */
+  }
+
+  @media screen and (max-width: 450px) {
+    .dottedcircle{
+      /* x: 156.62px
+Y: 111px */
+/* W: 150px
+H: 150px
+Rotation: -4.83°
+  */
+  position: absolute;
+    width: 100px;
+    height: 95px;
+    left: 212px;
+    top: 137px;
+    transform: rotate(22.83deg);
+}
+  }
+
+  .web-design {
+    position: absolute;
+    width: 299px;
+    height: 289px;
+    left: 710px;
+    top: 323px;
+
+/* background: url(portfolio.jpg); */
+    /* height: 136px;
+    right: 273px;
+    position: absolute;
+    top: 397px;
+    width: 148px; */
+  }
+
+
+  @media screen and (max-width:450px){
+    .web-design{
+      position: absolute;
+      width: 59px;
+      height: 62px;
+      left: 232px;
+      top: 156px;
+    }
+  }
+
+  .design1{
+    position: absolute;
+width:  199px;
+height: 203px;
+left: 481px;
+top: 350px;
+  }
+
+
+  @media screen and (max-width:450px)
+  {
+    .design1 {
+      position: absolute;
+      width: 60px;
+      height: 62px;
+      left: 170px;
+      top: 168px;
+  }
+
+  }
+  .design2{
+    position: absolute;
+width: 195.83px;
+height: 142.72px;
+left: 592.33px;
+top: 111.94px;
+transform: rotate(-3.28deg);
+  }
+
+  @media screen and (max-width:450px)
+  {
+    .design2 {
+      position: absolute;
+      width: 32px;
+      height: 22px;
+      left: 200px;
+      top: 145px;
+    transform: rotate(-30.72deg);
+}
+  
+  }
+  .design3{
+    position: absolute;
+    width: 395px;
+    height: 285px;
+    left: 860.48px;
+    top: 44px;
+    transform: rotate(18.07deg);
+}
+@media screen and (max-width:450px)
+  {
+    .design3 {
+    position: absolute;
+    width: 95px;
+    height: 80px;
+    left: 232px;
+    top: 82px;
+    transform: rotate(-4.19deg);
+
+  }
+  
+  }
+  .design4{
+    position: absolute;
+    width:  159.7px;
+    height: 223.87px;
+    left: 1088.61px;
+    top: 333px;
+    transform: rotate(20.81deg);
+}
+
+@media screen and (max-width:450px)
+  {
+    .design4 {
+      position: absolute;
+    width: 40px;
+    height: 37px;
+    left: 290.33px;
+    top: 165px;
+    transform: rotate(32.19deg);
+  }
+  
+  }
+  .design5{
+    position: absolute;
+width:215px;
+height: 150px;
+left: 956px;
+top: 543px;
+}
+@media screen and (max-width:450px)
+  {
+    .design5 {
+      position: absolute;
+    width: 60px;
+    height: 50px;
+    left: 260px;
+    top: 211px;
+  }
+  
+  }
+
+
+
+  /*below_SIDDHI_DHAMALE*/
+.belowsiddhidhamale{
+  position: absolute;
+width: 412px;
+height: 102px;
+left: 45px;
+top: 485px;
+
+font-family: Mina;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 51px;
+text-align: center;
+
+color: #000000;
+}
+
+@media screen and (max-width:450px){
+ .belowsiddhidhamale{
+  position: absolute;
+    width: 305px;
+    left: -60px;
+    top: 216px;
+    font-size: 9px;
+    font-family: Mina;
+    font-style: normal;
+    font-weight: normal;
+    white-space: pre-line;
+    /* font-size: 23px; */
+    line-height: 12px;
+    text-align: center;
+    color: #000000;
+}
+}
+
+.myresume{
+  position: absolute;
+width: 208px;
+height: 64px;
+left: 114px;
+top: 676.61px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 33px;
+
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFCFC;
+
+
+background: #292828;
+border-radius: 32px;
+transform: rotate(-0.99deg);
+}
+
+@media screen and (max-width:450px){
+  .myresume{
+    position: absolute;
+    width: 60px;
+    height: 24px;
+    left: 48px;
+    top: 260.08px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 8px;
+    line-height: 14px;
+    text-align: center;
+    color: #FFFCFC;
+    background: #292828;
+    border-radius: 32px;
+    transform: rotate(-0.99deg);
+}
+}
+
+.txt{
+position: absolute;
+width: 148px;
+height: 33px;
+left: 145px;
+top: 689px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 33px;
+
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFCFC;
+}
+
+@media screen and(max-width:450px)
+{
+  .txt{
+    position: absolute;
+width: 43px;
+height: 9px;
+left: 28px;
+top: 243px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 600;
+font-size: 8px;
+line-height: 9px;
+
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFCFC;
+  }
+}
+
+.arrow
+{
+  position: absolute;
+width: 50px;
+height: 50px;
+left: 561px;
+top: 682px;
+
+/* background: #F5E233; */
+/* border: 1px dashed #46535C; */
+/* box-sizing: border-box; */
+}
+
+@media screen and (max-width:450px)
+{
+  .arrow{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 188px;
+    top: 260px;
+
+  }
+}
+
+.arrow-down{
+  position: absolute;
+width: 24px;
+height: 24px;
+left: 574px;
+top: 695px;
+
+}
+
+@media screen and (max-width:450px)
+{
+  .arrow-down{
+    width: 12px;
+    height: 12px;
+    left: 192px;
+    top: 262px;
+
+
+  }
+}
+
+.about{
+  position: absolute;
+  width: 157px;
+  height: 56px;
+
+  left: 585px;
+  top: 974px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  
+  color: #000000;
+}
+@media screen and (max-width:450px){
+  .about{
+    position: absolute;
+      width: 60px;
+      height: 62px;
+      left: 170px;
+      top: 350px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  
+  color: #000000;
+  }
+} 
+
+
+
+.sci-fi{
+position: absolute;
+width: 325px;
+height: 294px;
+left: 0px;
+top: 923px;
+}
+
+@media screen and (max-width:450px){
+  .sci-fi{
+    position: absolute;
+width: 100px;
+height: 100px;
+left: 0px;
+top: 400px;
+  }
+} 
+
+.abt{
+  position: absolute;
+width: 854px;
+height: 132px;
+left: 265px;
+top: 1070px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 33px;
+text-align: center;
+white-space: pre-line;
+
+color: #000000;
+}
+
+@media screen and (max-width:450px){
+  .abt{
+    position: absolute;
+    width: 220px;
+    height: 60px;
+    left: 80px;
+    top: 382px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 7px;
+    line-height: 12px;
+    text-align: center;
+    white-space: pre-line;
+    color: #000000;
+}
+}
+
+.contact
+{
+  position: absolute;
+width: 190px;
+height: 63px;
+left: 561px;
+top: 1361px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 600;
+font-size: 54px;
+line-height: 63px;
+text-align: center;
+
+color: #000000;
+}
+
+
+@media screen and (max-width:450px){
+  .contact{
+    position: absolute;
+      width: 60px;
+      height: 62px;
+      left: 160px;
+      top: 520px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  
+  color: #000000;
+  }
+}
+/* .allicons{
+  position: absolute;
+  width: 659px;
+  height: 90px;
+  left: 327px;
+  top: 1487px;
+  
+} */
+
+/* 1 */
+.icon1{
+  
+position: absolute;
+width: 90px;
+height: 90px;
+left: 327px;
+top: 1487px;
+
+}
+
+@media screen and (max-width:450px){
+  .icon1{
+    position: absolute;
+width: 20px;
+height: 20px;
+left: 80px;
+top: 555px;
+
+
+  }
+}
+
+/* 2 */
+.icon2{
+  
+position: absolute;
+width: 90px;
+height: 90px;
+left: 525px;
+top: 1487px;
+  
+  }
+  @media screen and (max-width:450px){
+    .icon2{
+      position: absolute;
+width: 20px;
+height: 20px;
+left: 135px;
+top: 555px;
+
+    }
+  }
+
+/* 3 */
+  .icon3{
+  
+    position: absolute;
+width: 90px;
+height: 90px;
+left: 711px;
+top: 1487px;    
+    }
+    @media screen and (max-width:450px){
+      .icon3{
+        position: absolute;
+width: 20px;
+height: 20px;
+left: 190px;
+top: 555px;
+
+      }
+    }
+
+/* 4 */
+    .icon4{
+  
+      position: absolute;
+width: 90px;
+height: 90px;
+left: 896px;
+top: 1487px;
+      }
+
+      @media screen and (max-width:450px){
+        .icon4{
+          position: absolute;
+width: 20px;
+height: 20px;
+left: 240px;
+top: 555px;
+
+        }
+      }
